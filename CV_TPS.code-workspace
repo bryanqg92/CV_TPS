@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "vision_computadora_I",
+			"path": "../vision_computadora_I"
 		}
 	],
 	"settings": {}
